@@ -38,10 +38,10 @@ A secure, web-based authentication system engineered as an alternative to tradit
 ### Autism Facial Detection
 A machine learning project utilizing deep neural networks for facial image analysis, developed to assist in early-stage autism research and predictive modeling.
 
-### File Manager Application (In Progress)
+### File Manager Application 
 A full-stack file management system designed to support seamless file uploading, structured organization, indexed searching, and secure downloading.
 
-### MyDiary Application (In Progress)
+### MyDiary Application 
 A secure personal diary and note management application built using Spring Boot, designed for efficient entry logging and encrypted personal data management.
 
 ---
